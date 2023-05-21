@@ -5,8 +5,8 @@
     --primary-text-color: lightgray;
 
     --red: 255, 0, 0; /* Use RGB values */
-    --blue: 0, 217, 255; /* Use RGB values */
-    --yellow: 243, 230, 0; /* Use RGB values */
+    --blue: 255, 0, 0; /* Use RGB values */
+    --yellow: 255, 255, 255; /* Use RGB values */
     --green: 68, 255, 0; /* Use RGB values */
     --dark-green: 39, 148, 0; /* Use RGB values */
 

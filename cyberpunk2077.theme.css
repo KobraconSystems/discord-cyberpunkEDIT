@@ -17,12 +17,12 @@
     --font-primary: 'Rajdhani'; /* Font */
     --primary-text-color: lightgray; /* Font color */
 
-    --primary: 23, 13, 22;  /* Background color mainly used for popups */
-    --red: 255, 0, 60; /* Use RGB values */
-    --blue: 114, 234, 248; /* Use RGB values */
+    --primary: 0, 0, 0;  /* Background color mainly used for popups */
+    --red: 255, 0, 0; /* Use RGB values */
+    --blue: 0, 217, 255; /* Use RGB values */
     --yellow: 243, 230, 0; /* Use RGB values */
-    --green: 71, 213, 139; /* Use RGB values */
-    --dark-green: 56, 171, 111; /* Use RGB values */
+    --green: 68, 255, 0; /* Use RGB values */
+    --dark-green: 39, 148, 0; /* Use RGB values */
 
     --avatar-circle: 0; /* Square avatar */
     --avatar-rounded: 5px; /* Square avatars */
